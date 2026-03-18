@@ -1,5 +1,5 @@
 # DHCP-Starvation-Lab
-This repo will hold all of the materials related to my DHCP Starvation lab using yersinia
+This repo will hold all of the materials related to my DHCP Starvation lab using GNS3
 
 # Introduction
 
